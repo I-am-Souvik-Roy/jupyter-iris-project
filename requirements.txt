@@ -19,7 +19,6 @@ colorama==0.4.6
 comm==0.2.3
 streamlit
 pandas
-numpy
 matplotlib
 seaborn
 scikit-learn
@@ -71,7 +70,7 @@ nbformat==5.10.4
 nest-asyncio==1.6.0
 notebook==7.4.7
 notebook_shim==0.2.4
-numpy==2.3.4
+numpy==1.26.4
 packaging==25.0
 pandas==2.3.3
 pandocfilters==1.5.1
